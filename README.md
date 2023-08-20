@@ -5,7 +5,7 @@
 
 - 🔭 We are currently working on [National Bank of Iran Hospital](https://bmi-hospital.ir/)
 
-- 👨‍💻 Check Out Our Website [coming soon stay tuned](coming soon stay tuned)
+- 👨‍💻 Check Out Our Website (coming soon... stay tuned)
 
 - 💬 Ask us about **About participation in any software and technical infrastructure related to medical and health services**
 
